@@ -27,14 +27,23 @@
 	<div class="xbox">
 	<form id="SearchForm" name="SearchForm" method="post" action="{$searchurl}">
 	<ul class="searchFormDiv">
-	<li>
-	  <select name="modelid">
-	  	<foreach name='method_list' item='vo'>
-	  	<option value="{$vo.id}" >{$vo.method|str_replace='查找','',###}</option>
+	<li>公司名：
+	  <select name="modelid1">
+	  	<option value = "">请选择公司名</option>
+	  	<foreach name='c' item='vo'>
+	  	<option value="{$vo.id}" >{$vo.c_name}</option>
 		</foreach>
 	   </select>
 	</li>
-	<li>
+	<li>部门名：
+	  <select name="modelid2">
+	  	<option value = "">请选择部门名</option>
+	  	<foreach name='p' item='vo'>
+	  	<option value="{$vo.id}" >{$vo.p_name}</option>
+		</foreach>
+	   </select>
+	</li>
+	<li>需要查找人员的关键字：
 	  <input name="keyword" type="text" id="keyword"  value="<if condition='empty($keyword)'>请输入关键词<else/>{$keyword}</if>" onFocus="if(this.value=='请输入关键词'){this.value='';}" onBlur="if(this.value==''){this.value='请输入关键词';}" />
 	</li>
 	<li>
@@ -51,10 +60,24 @@
 	<ul >
 	<if condition='empty($list)'>
 	<div>对不起，暂时没有员工的信息！</div>
-	<else/>	
+	<else/>
+	<table>
+		<tr>
+				<td width = "30px">ID</td>
+				<td width = "80px">员工姓名</td>
+				<td width = "80px">部门名称</td>
+				<td width = "80px">公司名称</td>
+		</tr>
 	<foreach name='list' item='v'>
-	<li><span>{$v.id}</span><span>{$v.name}</span><span>{$v.p_name}</span><span>{$v.c_com}</span></li>
+		<tr>
+			<td>{$v.id}</td>
+			<td>{$v.name}</td>
+			<td>{$v.p_name}</td>
+			<td>{$v.c_name}</td>
+		</tr>
+	
 	</foreach>
+	</table>
 	</if>
 	
 	</ul>
