@@ -3,9 +3,9 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
-<title>{$title}-<yang:sitename /></title>
-<script type="text/javascript" src="__PUBLIC__/js/jquery-1.7.2.min.js" ></script>
-<link href="__PUBLIC__/css/css.css" rel="stylesheet" type="text/css" />
+<title>人员搜索</title>
+<script type="text/javascript" src="__PUBLIC__/default/js/jquery-1.7.2.min.js" ></script>
+<link href="__PUBLIC__/default/css/css.css" rel="stylesheet" type="text/css" />
 </head>
 <body>
 <!--top -->
@@ -27,14 +27,23 @@
 	<div class="xbox">
 	<form id="SearchForm" name="SearchForm" method="post" action="{$searchurl}">
 	<ul class="searchFormDiv">
-	<li>
-	  <select name="modelid">
-	  	<yang:datatable table='model' field='id,name' where='id != 2' orderby='id' limit='30'>
-	  	<option value="{$datatable.id}" <if condition='$datatable.id eq $modelid'>selected="selected"</if>>{$datatable.name|str_replace='模型','',###}</option>
-		</yang:datatable>
+	<li>公司名：
+	  <select name="modelid1">
+	  	<option value = "">请选择公司名</option>
+	  	<foreach name='c' item='vo'>
+	  	<option value="{$vo.id}" >{$vo.c_name}</option>
+		</foreach>
 	   </select>
 	</li>
-	<li>
+	<li>部门名：
+	  <select name="modelid2">
+	  	<option value = "">请选择部门名</option>
+	  	<foreach name='p' item='vo'>
+	  	<option value="{$vo.id}" >{$vo.p_name}</option>
+		</foreach>
+	   </select>
+	</li>
+	<li>需要查找人员的关键字：
 	  <input name="keyword" type="text" id="keyword"  value="<if condition='empty($keyword)'>请输入关键词<else/>{$keyword}</if>" onFocus="if(this.value=='请输入关键词'){this.value='';}" onBlur="if(this.value==''){this.value='请输入关键词';}" />
 	</li>
 	<li>
@@ -44,17 +53,31 @@
 	</div>
 </div>
 <div class="right f_r">
-	<h3 class="nybt"><span>搜索结果</span></h3>
+	<h3 class="nybt"><span>全部员工信息</span></h3>
 	<div class="xbox wzzw ">	
 	<div class="search_title">关键词： <span class="red">{$keyword}</span></div>
 	
-	<ul class="wzli">
-	<if condition='empty($keyword)'>
-	<div>请输入关键词，然后点搜索！</div>
-	<else/>	
-	<foreach name='vlist' item='v'>
-	<li><span>{$v.publishtime|date='Y-m-d',###}</span><a href="{$v.url}" target="_blank">{$v.title}</a></li>
+	<ul >
+	<if condition='empty($list)'>
+	<div>对不起，暂时没有员工的信息！</div>
+	<else/>
+	<table>
+		<tr>
+				<td width = "30px">ID</td>
+				<td width = "80px">员工姓名</td>
+				<td width = "80px">部门名称</td>
+				<td width = "80px">公司名称</td>
+		</tr>
+	<foreach name='list' item='v'>
+		<tr>
+			<td>{$v.id}</td>
+			<td>{$v.name}</td>
+			<td>{$v.p_name}</td>
+			<td>{$v.c_name}</td>
+		</tr>
+	
 	</foreach>
+	</table>
 	</if>
 	
 	</ul>
