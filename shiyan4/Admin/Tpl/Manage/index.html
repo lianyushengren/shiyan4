@@ -9,16 +9,16 @@
 <table id="__01" width="960" height="541" border="0" cellpadding="0" cellspacing="0">
 	<tr>
 		<td colspan="3">
-			<img src="__ROOT__/Public/images/_html_01.gif" width="217" height="65" alt=""></td>
+			<img src="__ROOT__/Public/IMAGES/_HTML_01.GIF" width="217" height="65" alt=""></td>
 		<td colspan="2">
-			<img src="__ROOT__/Public/images/_html_02.gif" width="743" height="65" border="0" usemap="#Map" alt=""></td>
+			<img src="__ROOT__/Public/IMAGES/_HTML_02.GIF" width="743" height="65" border="0" usemap="#Map" alt=""></td>
 	</tr>
 	<tr>
 		<td colspan="5">
-			<img src="__ROOT__/Public/images/_html_03.gif" width="960" height="26" alt=""></td>
+			<img src="__ROOT__/Public/IMAGES/_HTML_03.GIF" width="960" height="26" alt=""></td>
 	</tr>
 	<tr>
-		<td width="138" height="425" background="__ROOT__/Public/images/_html_08.jpg" align="center" valign="top">
+		<td width="138" height="425" background="__ROOT__/Public/IMAGES/_HTML_08.JPG" align="center" valign="top">
         <table width="135" border="0" cellspacing="0" cellpadding="0">
 		  <tr>
 		    <td width="10">&nbsp;</td>
@@ -49,7 +49,7 @@
 
 	    </table>
         </td>
-		<td rowspan="4" width="24" height="425" background="__ROOT__/Public/images/_html_05.gif">
+		<td rowspan="4" width="24" height="425" background="__ROOT__/Public/IMAGES/_HTML_05.GIF">
 		</td>
 		<td colspan="2" rowspan="4" width="759" height="425"
 			align="center" valign="top">
