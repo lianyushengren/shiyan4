@@ -1,0 +1,162 @@
+[ 2014-12-10T14:42:09+08:00 ] 127.0.0.1 /shiyan8/shiyan4/shiyan4/admin.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000146s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000247s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /home/s5/testtar/firstsql/shiyan8/shiyan4/shiyan4/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 273 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /home/s5/testtar/firstsql/shiyan8/shiyan4/shiyan4/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 168 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /home/s5/testtar/firstsql/shiyan8/shiyan4/shiyan4/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /home/s5/testtar/firstsql/shiyan8/shiyan4/shiyan4/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /home/s5/testtar/firstsql/shiyan8/shiyan4/shiyan4/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /home/s5/testtar/firstsql/shiyan8/shiyan4/shiyan4/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /home/s5/testtar/firstsql/shiyan8/shiyan4/shiyan4/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /home/s5/testtar/firstsql/shiyan8/shiyan4/shiyan4/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /home/s5/testtar/firstsql/shiyan8/shiyan4/shiyan4/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /home/s5/testtar/firstsql/shiyan8/shiyan4/shiyan4/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /home/s5/testtar/firstsql/shiyan8/shiyan4/shiyan4/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /home/s5/testtar/firstsql/shiyan8/shiyan4/shiyan4/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /home/s5/testtar/firstsql/shiyan8/shiyan4/shiyan4/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /home/s5/testtar/firstsql/shiyan8/shiyan4/shiyan4/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /home/s5/testtar/firstsql/shiyan8/shiyan4/shiyan4/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 399 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /home/s5/testtar/firstsql/shiyan8/shiyan4/shiyan4/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 399 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /home/s5/testtar/firstsql/shiyan8/shiyan4/shiyan4/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /home/s5/testtar/firstsql/shiyan8/shiyan4/shiyan4/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /home/s5/testtar/firstsql/shiyan8/shiyan4/shiyan4/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /home/s5/testtar/firstsql/shiyan8/shiyan4/shiyan4/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 399 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /home/s5/testtar/firstsql/shiyan8/shiyan4/shiyan4/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /home/s5/testtar/firstsql/shiyan8/shiyan4/shiyan4/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /home/s5/testtar/firstsql/shiyan8/shiyan4/shiyan4/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /home/s5/testtar/firstsql/shiyan8/shiyan4/shiyan4/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /home/s5/testtar/firstsql/shiyan8/shiyan4/shiyan4/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /home/s5/testtar/firstsql/shiyan8/shiyan4/shiyan4/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /home/s5/testtar/firstsql/shiyan8/shiyan4/shiyan4/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /home/s5/testtar/firstsql/shiyan8/shiyan4/shiyan4/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /home/s5/testtar/firstsql/shiyan8/shiyan4/shiyan4/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /home/s5/testtar/firstsql/shiyan8/shiyan4/shiyan4/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /home/s5/testtar/firstsql/shiyan8/shiyan4/shiyan4/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /home/s5/testtar/firstsql/shiyan8/shiyan4/shiyan4/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /home/s5/testtar/firstsql/shiyan8/shiyan4/shiyan4/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /home/s5/testtar/firstsql/shiyan8/shiyan4/shiyan4/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /home/s5/testtar/firstsql/shiyan8/shiyan4/shiyan4/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /home/s5/testtar/firstsql/shiyan8/shiyan4/shiyan4/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /home/s5/testtar/firstsql/shiyan8/shiyan4/shiyan4/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /home/s5/testtar/firstsql/shiyan8/shiyan4/shiyan4/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /home/s5/testtar/firstsql/shiyan8/shiyan4/shiyan4/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /home/s5/testtar/firstsql/shiyan8/shiyan4/shiyan4/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /home/s5/testtar/firstsql/shiyan8/shiyan4/shiyan4/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /home/s5/testtar/firstsql/shiyan8/shiyan4/shiyan4/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /home/s5/testtar/firstsql/shiyan8/shiyan4/shiyan4/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /home/s5/testtar/firstsql/shiyan8/shiyan4/shiyan4/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /home/s5/testtar/firstsql/shiyan8/shiyan4/shiyan4/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /home/s5/testtar/firstsql/shiyan8/shiyan4/shiyan4/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /home/s5/testtar/firstsql/shiyan8/shiyan4/shiyan4/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /home/s5/testtar/firstsql/shiyan8/shiyan4/shiyan4/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /home/s5/testtar/firstsql/shiyan8/shiyan4/shiyan4/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /home/s5/testtar/firstsql/shiyan8/shiyan4/shiyan4/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /home/s5/testtar/firstsql/shiyan8/shiyan4/shiyan4/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /home/s5/testtar/firstsql/shiyan8/shiyan4/shiyan4/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /home/s5/testtar/firstsql/shiyan8/shiyan4/shiyan4/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /home/s5/testtar/firstsql/shiyan8/shiyan4/shiyan4/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /home/s5/testtar/firstsql/shiyan8/shiyan4/shiyan4/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /home/s5/testtar/firstsql/shiyan8/shiyan4/shiyan4/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /home/s5/testtar/firstsql/shiyan8/shiyan4/shiyan4/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /home/s5/testtar/firstsql/shiyan8/shiyan4/shiyan4/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /home/s5/testtar/firstsql/shiyan8/shiyan4/shiyan4/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /home/s5/testtar/firstsql/shiyan8/shiyan4/shiyan4/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /home/s5/testtar/firstsql/shiyan8/shiyan4/shiyan4/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /home/s5/testtar/firstsql/shiyan8/shiyan4/shiyan4/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /home/s5/testtar/firstsql/shiyan8/shiyan4/shiyan4/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /home/s5/testtar/firstsql/shiyan8/shiyan4/shiyan4/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /home/s5/testtar/firstsql/shiyan8/shiyan4/shiyan4/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /home/s5/testtar/firstsql/shiyan8/shiyan4/shiyan4/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /home/s5/testtar/firstsql/shiyan8/shiyan4/shiyan4/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /home/s5/testtar/firstsql/shiyan8/shiyan4/shiyan4/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /home/s5/testtar/firstsql/shiyan8/shiyan4/shiyan4/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /home/s5/testtar/firstsql/shiyan8/shiyan4/shiyan4/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /home/s5/testtar/firstsql/shiyan8/shiyan4/shiyan4/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /home/s5/testtar/firstsql/shiyan8/shiyan4/shiyan4/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /home/s5/testtar/firstsql/shiyan8/shiyan4/shiyan4/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /home/s5/testtar/firstsql/shiyan8/shiyan4/shiyan4/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /home/s5/testtar/firstsql/shiyan8/shiyan4/shiyan4/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /home/s5/testtar/firstsql/shiyan8/shiyan4/shiyan4/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /home/s5/testtar/firstsql/shiyan8/shiyan4/shiyan4/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /home/s5/testtar/firstsql/shiyan8/shiyan4/shiyan4/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /home/s5/testtar/firstsql/shiyan8/shiyan4/shiyan4/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /home/s5/testtar/firstsql/shiyan8/shiyan4/shiyan4/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /home/s5/testtar/firstsql/shiyan8/shiyan4/shiyan4/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /home/s5/testtar/firstsql/shiyan8/shiyan4/shiyan4/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /home/s5/testtar/firstsql/shiyan8/shiyan4/shiyan4/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /home/s5/testtar/firstsql/shiyan8/shiyan4/shiyan4/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /home/s5/testtar/firstsql/shiyan8/shiyan4/shiyan4/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /home/s5/testtar/firstsql/shiyan8/shiyan4/shiyan4/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /home/s5/testtar/firstsql/shiyan8/shiyan4/shiyan4/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 399 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /home/s5/testtar/firstsql/shiyan8/shiyan4/shiyan4/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 399 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /home/s5/testtar/firstsql/shiyan8/shiyan4/shiyan4/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 399 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /home/s5/testtar/firstsql/shiyan8/shiyan4/shiyan4/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 399 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /home/s5/testtar/firstsql/shiyan8/shiyan4/shiyan4/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 399 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /home/s5/testtar/firstsql/shiyan8/shiyan4/shiyan4/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 399 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /home/s5/testtar/firstsql/shiyan8/shiyan4/shiyan4/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /home/s5/testtar/firstsql/shiyan8/shiyan4/shiyan4/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /home/s5/testtar/firstsql/shiyan8/shiyan4/shiyan4/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /home/s5/testtar/firstsql/shiyan8/shiyan4/shiyan4/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 197 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /home/s5/testtar/firstsql/shiyan8/shiyan4/shiyan4/ThinkPHP/Lib/Template/ThinkTemplate.class.php 第 137 行.
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' /home/s5/testtar/firstsql/shiyan8/shiyan4/shiyan4/Admin/Runtime/Cache/20eabf8d43f497715f3e1a7ec1a2f00f.php 第 7 行.
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' /home/s5/testtar/firstsql/shiyan8/shiyan4/shiyan4/Admin/Runtime/Cache/20eabf8d43f497715f3e1a7ec1a2f00f.php 第 8 行.
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' /home/s5/testtar/firstsql/shiyan8/shiyan4/shiyan4/Admin/Runtime/Cache/20eabf8d43f497715f3e1a7ec1a2f00f.php 第 9 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.005443s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005546s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000191s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000122s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000080s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000126s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000660s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000097s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000142s ]
+
+[ 2014-12-10T14:42:09+08:00 ] 127.0.0.1 /shiyan8/shiyan4/shiyan4/admin.php/Index/verify.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001123s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001193s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /home/s5/testtar/firstsql/shiyan8/shiyan4/shiyan4/ThinkPHP/Lib/Core/Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000070s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000112s ]
+
+[ 2014-12-10T14:42:16+08:00 ] 127.0.0.1 /shiyan8/shiyan4/shiyan4/admin.php/Index/login.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000112s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000178s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /home/s5/testtar/firstsql/shiyan8/shiyan4/shiyan4/ThinkPHP/Lib/Core/Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000091s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000139s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /home/s5/testtar/firstsql/shiyan8/shiyan4/shiyan4/ThinkPHP/Lib/Driver/Db/DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `test_admin` [ RunTime:0.000465s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /home/s5/testtar/firstsql/shiyan8/shiyan4/shiyan4/ThinkPHP/Lib/Core/Db.class.php 第 604 行.
+SQL: SELECT * FROM `test_admin` WHERE ( `name` = 'zsl' ) LIMIT 1   [ RunTime:0.000048s ]
+NOTIC: [8] Undefined index:  /home/s5/testtar/firstsql/shiyan8/shiyan4/shiyan4/ThinkPHP/Extend/Library/ORG/Util/RBAC.class.php 第 94 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /home/s5/testtar/firstsql/shiyan8/shiyan4/shiyan4/ThinkPHP/Lib/Driver/Db/DbMysql.class.php 第 55 行.
+SQL: select node.id,node.name from  as role, as user, as access , as node where user.user_id='Yes' and user.role_id=role.id and ( access.role_id=role.id  or (access.role_id=role.pid and role.pid!=0 ) ) and role.status=1 and access.node_id=node.id and node.level=1 and node.status=1 [ RunTime:0.000168s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'as role, as user, as access , as node where user.user_id='Yes' and user.role_id=' at line 1
+ [ SQL语句 ] : select node.id,node.name from  as role, as user, as access , as node where user.user_id='Yes' and user.role_id=role.id and ( access.role_id=role.id  or (access.role_id=role.pid and role.pid!=0 ) ) and role.status=1 and access.node_id=node.id and node.level=1 and node.status=1
+NOTIC: [2] Invalid argument supplied for foreach() /home/s5/testtar/firstsql/shiyan8/shiyan4/shiyan4/ThinkPHP/Extend/Library/ORG/Util/RBAC.class.php 第 220 行.
+
+[ 2014-12-10T14:42:16+08:00 ] 127.0.0.1 /shiyan8/shiyan4/shiyan4/admin.php/Manage.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000060s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000118s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /home/s5/testtar/firstsql/shiyan8/shiyan4/shiyan4/ThinkPHP/Lib/Core/Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000054s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000091s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /home/s5/testtar/firstsql/shiyan8/shiyan4/shiyan4/ThinkPHP/Lib/Driver/Db/DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `test_worker` [ RunTime:0.000451s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /home/s5/testtar/firstsql/shiyan8/shiyan4/shiyan4/ThinkPHP/Lib/Core/Db.class.php 第 604 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `test_worker` LIMIT 1   [ RunTime:0.000039s ]
+SQL: SELECT w.id, w.name, d.p_name, c.c_name 
+				FROM test_worker AS w, test_department AS d, test_com AS c 
+				WHERE w.com_id = c.id AND w.depart_id = d.id [ RunTime:0.000205s ]
+ERR: 模板不存在[./Admin/Tpl/Manage/index.html]
+
